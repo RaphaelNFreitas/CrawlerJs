@@ -1,0 +1,11 @@
+instalar -> http://expressjs.com/pt-br/starter/generator.html
+            https://github.com/cheeriojs/cheerio
+            https://www.npmjs.com/package/request
+            
+url -> http://www.themovieblog.com/category/features/reviews/
+
+
+
+
+https://securityonline.info/burp-vulners-scanner-vulnerability-scanner-based-vulners-com-search-api/
+https://securityonline.info/auto-web-application-penetration-testing/
